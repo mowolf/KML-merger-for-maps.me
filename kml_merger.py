@@ -2,7 +2,7 @@ from os import listdir
 from os.path import isfile, join
 
 # init
-file = "/Users/Mo/Library/Mobile Documents/com~apple~CloudDocs/Projekte/KML eradicator/bookmarks.kml"
+file = "/Users/Mo/Library/Mobile Documents/com~apple~CloudDocs/Projekte/KML Sorter/KML eradicator/bookmarks.kml"
 dataArray = []
 
 
